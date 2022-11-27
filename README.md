@@ -2,7 +2,7 @@
 
 ## Login
 
-- $ docker login
+- docker login
 
 ## Push
 
